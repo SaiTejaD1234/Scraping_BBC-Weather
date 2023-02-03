@@ -16,6 +16,7 @@ Web Scarping is an important aspect of Data Science. This requires patience and 
      * os
      * re
      * json
+     * time
       
 ## 3. Implementation
 The helper function was written to extract the ID for the city. Using the ID we find the url for the BBC website containing the weather. We parse the loaded webpage and extact the high, low, date and summary throught each unique attributes from the parsed webpage. The values are stored in respective arrays and are loaded into a dataframe with date as index. 
