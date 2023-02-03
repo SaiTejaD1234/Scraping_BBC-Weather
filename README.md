@@ -1,5 +1,4 @@
-
-# Scrapping Weather from BBC Website
+# Scraping Weather from BBC Website
     1.  Project Motivation
     2.  Installation
     3.  Implementation
